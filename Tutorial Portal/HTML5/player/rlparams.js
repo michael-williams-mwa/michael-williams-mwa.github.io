@@ -27,7 +27,7 @@ var PrezInfo = {
 var Options = {"opmodes":2,"language_id":60,"report_format":0,"report_value":"","pass_condition":0,"zoom_percent":100,"ShowReport":false,"ExportHTML5":true,"UseFlashPlayer":true,"pass_value":80,"report_method":0,"FlashABSpeed":0,"AllowNavigate":false,"test_max_time":0,"UseSilverlight":false,"image_format":"png","ConfirmRestart":false,"HilightFocus":true,"UseAccText":true,"ScormScorePercent":false};
 var TemplateParams = {
    IniVolume:80,
-   IniCCShow:1,
+   IniCCShow:0,
    HighLevelStepText:0,
    SlideListPos:5,
    ShowDuration:0,
@@ -37,7 +37,7 @@ var TemplateParams = {
    IniSlideNotesShow:0,
    AlwaysShowSlideNotes:0,
    SlideNotesPos:2,
-   IniAutoFit:0,
+   IniAutoFit:1,
    ShowDetailedStepsInPractice:0,
    AlwaysShowSlideList:0,
    IniSlideListShow:0,
